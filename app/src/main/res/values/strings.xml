@@ -1,6 +1,19 @@
 <resources>
-    <string name="app_name">Ja Medicou</string>
+    <string name="app_name">Já Medicou?</string>
     <string name="logo">Logo</string>
-    <string name="hello">Olá %1$s \n Bem vindo de volta!</string>
     <string name="addMedicine">Adicionar Remédio</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Marco Willy</string>
+    <string name="nav_header_subtitle">Tipo Sanguineo: A</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="menu_home">Principal</string>
+    <string name="menu_medicine">Medicamentos</string>
+    <string name="menu_about">Sobre</string>
+    <string name="menu_form">Dados Cadastrais</string>
+    <string name="menu_relatory">Relátorios</string>
+    <string name="menu_emergency">Contatos de emergência</string>
 </resources>
